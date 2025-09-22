@@ -6,7 +6,7 @@ This project aims to build a simple AI/ML-based bot for predicting the risk of h
 Dataset Details
 
 1. Filename: data.csv
-2. Rows: 282 patient records
+2. Rows: 294 patient records
 3. Columns: 14 medical attributes
 4. Target Variable: num (0 = no heart disease, 1 = heart disease)
 
